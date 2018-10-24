@@ -1,1 +1,1 @@
-# Blockchain-Academy-Acceptance-tests
+Запускаем index.html и в консоли результаты.
