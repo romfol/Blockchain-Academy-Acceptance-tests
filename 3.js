@@ -3,4 +3,4 @@
 
 const isInCircle = () => {};
 
-console.log(isInCircle(1, 2, 4));
+// console.log(isInCircle(1, 2, 4));
